@@ -17,6 +17,7 @@ const styles = StyleSheet.create({
     shareView: {
         alignItems: "center",
         justifyContent: "center",
+        marginBottom: 10,
     },
     shareButton: {
         backgroundColor: "#1877f2",
