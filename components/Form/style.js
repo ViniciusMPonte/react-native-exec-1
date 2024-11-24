@@ -28,8 +28,15 @@ const styles = StyleSheet.create({
         height: 40,
         width: "90%",
         margin: 12,
+        marginBottom: 0,
         borderRadius: 50,
         paddingLeft: 10,
+    },
+    errorMessage: {
+        color: "#ff0043",
+        fontWeight: "bold",
+        paddingLeft: 20,
+        marginBottom: 30
     },
     buttonCalculator: {
         borderRadius: 50,
